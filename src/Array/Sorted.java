@@ -5,8 +5,6 @@ public class Sorted {
         int[] num = {0,0,1,1,1,2,2,3,3,4};
         int n = num.length;
         int i = 0;//left
-
-
         for (int j = 1; j < n; j++) {
             if(num[i]!=num[j])
             {
@@ -17,8 +15,6 @@ public class Sorted {
 
         }
         System.out.println (i+1);
-
-
 
     }
 }
