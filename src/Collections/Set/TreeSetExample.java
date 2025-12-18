@@ -5,10 +5,10 @@ import java.util.TreeSet;
 public class TreeSetExample {
     public static void main(String[] args) {
 
-        //i will sort the give
+        //it will sort the give value
         //it will not allow the duplicate
         //it will not allow the hetrogenous
-//        it will not allow the null evem 1 null also it wont allow
+//        it will not allow the null even 1 null also it wont allow
         TreeSet t=new TreeSet();
         t.add(1);
         t.add(5);
